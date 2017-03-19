@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+ <head>Animal</head>
+<description>Сейчас Вам будут предложены вопросы о животном мире. </description>
+<time >
+<min>3</min>
+<sec>0</sec>
+</time>
+<qw num="10">
+  	<q  text="Как называктся место на берегу, где обитают тюлени?" src="" >
+			<a right="no">Пастбище</a>
+			<a right="no">Стойбище</a>
+			<a right="yes">Лежбище</a>
+			<a right="no">Гульбище</a>
+	</q>
+	<q  text="Как называется жилище волка?" src="">
+			<a right="no">Гнездо</a>
+			<a right="no">Берлога</a>
+			<a right="yes">Логово</a>
+			<a right="no">Нора</a>
+	</q>
+            <q text="Разновидность какой из этих ящериц является крупнейшей в мире" src="">
+			<a right="no">Геккон</a>
+			<a right="no">Игуана </a>
+			<a right="yes">Варан</a>
+			<a right="no">Агама</a>
+      
+    	</q>
+    <q  text="Какое из этих животных вымерло по вине человека?" src="">
+			<a right="yes">Дронт</a>
+			<a right="no">Птеродактиль </a>
+			<a right="no">Рыжий таракан</a>
+			<a right="no">Мамонт</a>
+      
+  	  </q>
+    <q  text="Какое из этих животных родом не из Австралии?" src="" >
+			<a right="yes">Панда</a>
+			<a right="no">Утконос </a>
+			<a right="no">Динго</a>
+			<a right="no">Коала </a>
+    </q>
+    <q text="Как летучие мыши опpеделяют положение окpужающих пpедметов?" src="">
+     			 <a right="yes">Слухом</a>
+			<a right="no">Зрением </a>
+			<a right="no">Обанянием </a>
+			<a right="no">Осязанием </a>
+    </q>
+    <q text="Каких летучих животных не существует?" src="">
+			<a right="yes">Кошек</a>
+			<a right="no">Рыб </a>
+			<a right="no">Белок </a>
+			<a right="no">Собaк </a>
+    
+    </q>
+  	  <q text="Кто такой змееяд?" src="">
+			<a right="yes">Птицa</a>
+			<a right="no">Паук </a>
+			<a right="no">Ящерица </a>
+			<a right="no">Зверек </a>
+    
+    </q>
+    <q text="Какое из этих животных не бывает ангорской породы" src="">
+			<a right="yes">Собака</a>
+			<a right="no">Кошка </a>
+			<a right="no">Коза </a>
+			<a right="no">Кролик</a>
+      
+    </q >
+    <q text="Кто из этиx морскиx обитателей изображен на картинке?" src="morskoy-chyort1.10.jpg">
+			<a right="yes">Морской черт</a>
+			<a right="no">Морской лев </a>
+			<a right="no">Морской заяц </a>
+			<a right="no">Морской слон</a>
+   
+    </q>
+  </qw>
+<levels>
+		<level score="2" text="Все ответы верны. Отлично!"/>
+		<level score="1" text="Некоторые ответы неверны. Хорошо!"/>
+		<level score="0" text="Вы плохо готовы. Плохо!"/>
+	</levels>
+</test>
