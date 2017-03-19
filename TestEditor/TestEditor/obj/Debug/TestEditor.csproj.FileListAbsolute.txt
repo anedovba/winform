@@ -1,0 +1,13 @@
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\bin\Debug\TestEditor.exe.config
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\bin\Debug\TestEditor.exe
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\bin\Debug\TestEditor.pdb
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.csprojResolveAssemblyReference.cache
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.Form1.resources
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.Properties.Resources.resources
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.csproj.GenerateResource.Cache
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.exe
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.pdb
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.Form2.resources
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.Editor.resources
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.NewQuestion.resources
+D:\ШАГ\Project\WinForm\Exam\TestEditor\TestEditor\obj\Debug\TestEditor.CreateTest.resources

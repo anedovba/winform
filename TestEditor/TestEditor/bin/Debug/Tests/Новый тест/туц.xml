@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <head>Новый тест</head>
+  <description>Новое описание</description>
+  <time>
+    <min>10</min>
+    <sec>0</sec>
+  </time>
+  <qw num="2">
+    <q text="Первый вопрос" src="">
+      <a right="yes">1</a>
+      <a right="no">2</a>
+    </q>
+    <q text="Второй вопрос" src="is.jpg">
+      <a right="no">3</a>
+      <a right="no">4</a>
+      <a right="yes">5</a>
+      <a right="no">6</a>
+      <a right="no">7</a>
+    </q>
+  </qw>
+</test>

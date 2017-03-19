@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <head>Новый тест</head>
+  <description>Новое описание</description>
+  <time>
+    <min>10</min>
+    <sec>0</sec>
+  </time>
+  <qw num="1" />
+</test>
